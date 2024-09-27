@@ -1,12 +1,12 @@
 # Gridworld Reinforcement Learning
 
-This is a project template from UC Berkeley. The project implements Value Iteration and Q-Learning algorithms to solve a variety of gridworld mazes and puzzles. It provides pre-defined policies that can be customized by adjusting parameters like discount, noise, and reward values, as well as policy optimization through iterative reinforcement learning. Additionally, it utilizes Epsilon Greedy values in Q-value iteration to introduce exploration capabilities to the agent, which enhances policy improvement and maze-solving time. 
+This is a project template from UC Berkeley. The project implements Value Iteration and Q-Learning algorithms to solve a variety of gridworld mazes and puzzles. It provides pre-defined policies that can be customized by adjusting parameters like discount, noise, and reward values, as well as policy optimization through iterative reinforcement learning. Additionally, it utilizes Epsilon Greedy values in Q-value iteration to introduce exploration capabilities to the agent, which enhances policy improvement and maze-solving time.
 
 ## Features
 
-- **Randomized Rooms:** To be filled
+- **:** To be filled
 
-- **Path and Node Display:** To be filled
+- **:** To be filled
 
 ## How does it work?
 
@@ -25,7 +25,7 @@ Follow these steps to set up and run the Gridworld Reinforcement Learning projec
    ```bash
    git clone https://github.com/Daksh2060/gridworld-reinforcement-learning
    ```
-   
+
 ## Contact
 
 Feel free to reach out if you have any questions, suggestions, or feedback:
